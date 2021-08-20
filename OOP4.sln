@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOPOrnek1", "OOPOrnek1\OOPOrnek1.csproj", "{9F0EDAAA-F8F9-4452-9699-948A864704E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ornek2", "Ornek2\Ornek2.csproj", "{E62F8975-D1B6-4551-807A-C38EB000BCD3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F0EDAAA-F8F9-4452-9699-948A864704E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F0EDAAA-F8F9-4452-9699-948A864704E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F0EDAAA-F8F9-4452-9699-948A864704E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F0EDAAA-F8F9-4452-9699-948A864704E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E62F8975-D1B6-4551-807A-C38EB000BCD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E62F8975-D1B6-4551-807A-C38EB000BCD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E62F8975-D1B6-4551-807A-C38EB000BCD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E62F8975-D1B6-4551-807A-C38EB000BCD3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {229E5B2F-C496-4A0B-984E-B5301E5F2A69}
+	EndGlobalSection
+EndGlobal
